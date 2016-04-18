@@ -1,4 +1,7 @@
-var myNodeList = document.querySelectorAll('li');
-for (var i = myNodeList.length; i--;) { // reverse
-  // do something with myNodeList[i]
-}
+var nl=document.querySelectorAll('#questions li button'), m=Array();
+for(var m=nl,i=m.length+0;i--;){
+	  // do something with myNodeList[i]
+ 
+};
+m=i=nl=null;
+
