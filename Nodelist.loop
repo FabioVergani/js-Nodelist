@@ -1,0 +1,7 @@
+	var nl=document.querySelectorAll('#questions .xxx button'), m=Array(nl.length);
+
+	for(var i=0,e=nl,l=e.length,dest=m;i<l;i++){
+		dest[i]=e[i];
+	};
+
+	console.dir(m);
